@@ -23,6 +23,6 @@ this is the sales of the ships line
 this is the sales of the trucks and buses line
 
 ## Analysis and Decisions
-
+the classic and vintage car lines are significantly the most popular and should be given most attention in production. The train line is not a large sales source for us so this product line can take less attention. while sales are not drastically different between most products in the various lines, the 1992 ferrari 360 spider red from the classic car line is distinctly a customer favorite and should be seen as a high priority for stock. 
 
 
